@@ -34,7 +34,8 @@ class _FirstScreenState extends State<FirstScreen> {
             Text('Second'),
             Text('Third'),
             Text('Fourth'),
-            Text('Fifth')
+            Text('Fifth'),
+            Text('Sixth'),
           ],
         ),
       ),
