@@ -28,7 +28,7 @@ class _FirstScreenState extends State<FirstScreen> {
     return Scaffold(
       appBar: AppBar(),
       body: Center(
-        child: Row(mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        child: Column(mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
             Text('First'),
             Text('Second'),
